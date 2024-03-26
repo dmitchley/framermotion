@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { slide, opacity, perspective } from "./anim";
+import { slide, opacity, perspective } from "../../../../../anim";
 
 const anim = (variants) => {
   return {
